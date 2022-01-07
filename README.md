@@ -3,7 +3,7 @@
 ## Issue: 
 
 Sometimes on Kali linux while working (virtualbox), the left side of my screen stops responding to mouse clicks.  
-This seems to be due to vvirtualbox draganddrop process becoming stuck. 
+This seems to be due to virtualbox draganddrop process becoming stuck. 
 Resetting the PID and starting VBoxClient will fix the issue. 
 
 ## Fix
