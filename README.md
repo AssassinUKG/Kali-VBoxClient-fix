@@ -14,7 +14,7 @@ Script: [resetVbox.sh](/resetVBox.sh)
 
 ## Screenshot
 
-![image](https://user-images.githubusercontent.com/5285547/148550319-101174fe-70f5-4acd-b588-7edfcb92ada9.png)
+![image](https://user-images.githubusercontent.com/5285547/148550634-9366bc53-ec1e-4724-8777-0cbee0cb2cec.png)
 
 
 ## Usage
