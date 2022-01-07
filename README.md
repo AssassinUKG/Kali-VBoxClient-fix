@@ -10,8 +10,14 @@ Resetting the PID and starting VBoxClient will fix the issue.
 
 I wrote this script to help automate that process.
 
-Script: resetVbox.sh
+Script: [resetVbox.sh](/resetVBox.sh)
 
+## Usage
+
+- Download and run
+```
+wget https://raw.githubusercontent.com/AssassinUKG/Kali-VBoxClient-fix/main/resetVBox.sh && chmod +x resetVBox.sh 
+```
 
 ## Manual 
 
