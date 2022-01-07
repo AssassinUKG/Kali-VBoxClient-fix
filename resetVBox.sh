@@ -16,7 +16,7 @@ for t in "${myarr[@]}"; do
         kill -9 "$t"
 done
 
+echo ""
 echo "Restarting VBoxClient Services"
 sleep 1
-echo ""
 VBoxClient --draganddrop
