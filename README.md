@@ -12,6 +12,11 @@ I wrote this script to help automate that process.
 
 Script: [resetVbox.sh](/resetVBox.sh)
 
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/5285547/148550319-101174fe-70f5-4acd-b588-7edfcb92ada9.png)
+
+
 ## Usage
 
 - Download and run
