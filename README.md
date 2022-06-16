@@ -21,7 +21,7 @@ Script: [resetVbox.sh](/resetVBox.sh)
 
 - Download and run
 ```
-wget https://raw.githubusercontent.com/AssassinUKG/Kali-VBoxClient-fix/main/resetVBox.sh && chmod +x resetVBox.sh 
+wget https://raw.githubusercontent.com/AssassinUKG/Kali-VBoxClient-fix/main/resetVBox.sh && chmod +x resetVBox.sh &&sleep 1; ./resetVBox.sh
 ```
 
 ## Manual 
